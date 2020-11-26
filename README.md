@@ -1,16 +1,25 @@
-### Hi there 👋
+## Sky Arcadius
+I code things to better the world and help people.
 
-<!--
-**SkyWolf369/SkyWolf369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I began my developer journey in 2014 starting with HTML CSS and JS and I am currently learning Kotlin C# C++ and TS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+All of my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have done. Everything I build is open-source, and you are free to fork the repository and play with the code. If you discover a bug or think of a feature to add, feel free to submit issues or pull requests - they are always welcome!
+
+##  Technologies OS and Tools
+
+![](https://img.shields.io/badge/OS-Windows/Linux-6e33ba)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&color=6e33ba)
+![](https://img.shields.io/static/v1?message=Kotlin&color=6e33ba&llabel=Code&logo=Kotlin&style=flat-square)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=6e33ba)
+
+
+
+
+## GitHub Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Skywolf369&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywolf369&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
