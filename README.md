@@ -13,7 +13,7 @@ All of my projects are available here on GitHub. You can view my top projects/co
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-6e33ba)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&color=6e33ba)
-![](https://img.shields.io/static/v1?message=Kotlin&color=6e33ba&llabel=Code&logo=Kotlin&style=flat-square)
+![](https://img.shields.io/badge/Code-Kotlin-blue?message=Kotlin&color=6e33ba&label=Code&logo=Kotlin&style=flat-square)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=6e33ba)
 
 
