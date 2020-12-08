@@ -8,8 +8,11 @@ Casual dev, no motivation, tired, and bored. School sucks so I'm not very active
 ## Projects
 
 SpiderWebServer - failed web server I made
+
 os - Currently unnamed Linux-based distribution with SkyWolf369
+
 SkyRunner - an old game I made in Unity. Nothing special.
+
 More to come!
 
 ##  Things I use
