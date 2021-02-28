@@ -1,9 +1,9 @@
 ## Mason M
-I'm just an enthusiast, low-level stuff and kernel things are my best areas. I also do gamedev.
+I'm just an enthusiast. I just fuck around when I'm bored.
 
 ## About Me
 
-Casually building software and learning about thing I'm passionate about.
+Casually building software and learning about things I'm passionate about.
 
 ## Projects
 
