@@ -1,4 +1,4 @@
-## Mason Meirs
+## Mason M
 I'm just an enthusiast, low-level stuff and kernel things are my best areas. I also do gamedev.
 
 ## About Me
