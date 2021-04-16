@@ -15,13 +15,7 @@ pft - a simple and stylish fetch
 
 vmman - a simple Virtual Machine manager and container system  using QEMU
 
-More to come!
-
-##  Things I use
-
-I use Windows 10 + WSL since I don't really need more than that.
-Also love MacOS. 
-I program mostly in C, C#, Python and JS/TS.
+moss-builder - the builder for my linux distro
 
 ## GitHub Stats
 
