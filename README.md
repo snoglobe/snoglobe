@@ -1,5 +1,5 @@
 # helo
-hi! i'm snwy (they/them)<br><br>i'm a maker of programming languages, electronics, and more.<br>i'm the creator of the aurora scripting language, the dawn compiled programming language,<br>and a leader of the [Essex High School hack club!](https://essexhacks.org) <br><br>check out my site at https://snwy.me
+hi! i'm snwy (they/them)<br><br>i'm a maker of programming languages, electronics, and more.<br>i'm the creator of the aurora scripting language, the dawn compiled programming language,<br>the snwbobard development board, and a leader of the [Essex High School hack club!](https://essexhacks.org) <br><br>check out my site at https://snwy.me
 
 
 # some badges i found:
