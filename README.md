@@ -1,5 +1,5 @@
 # hey!
-i'm Mason Meirs a.k.a. snwy. i'm a 17 year old developer who specializes in language design & theory. i'm also interested in distributed computing, machine learning, and the future of computing.
+i'm a 17 year old developer who specializes in language design & theory. i'm also interested in distributed computing, machine learning, and the future of computing.
 
 check out
 - [zy.snwy.me]()
